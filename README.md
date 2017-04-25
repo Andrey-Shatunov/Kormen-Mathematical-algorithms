@@ -1,3 +1,3 @@
 # Kormen-Mathematical-algorithms
 Mathematical algorithms from Kormen's book
-![alt text](https://cloud.mail.ru/public/N7qk/UbRwZqpjk)
+![alt text](https://github.com/Andrey-Shatunov/Kormen-Mathematical-algorithms/blob/master/Alg.jpg)
