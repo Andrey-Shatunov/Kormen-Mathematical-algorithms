@@ -3,12 +3,9 @@ def belman_ford(graph,s):
   shortest = [1000000]*n
   shortest[s]=0 
   pred=[None]*n
-  Q=[i for i in range(0,n)]
   
-  #while len(Q)!=0:
   for qwe in range(n-1):
     for u in range(n):
-      #u=Q.pop(Q.index(min_Q(Q,shortest)))
       for v in range(n):
         if graph[u][v]!=0:
           if (shortest[u]+graph[u][v])<shortest[v]:
