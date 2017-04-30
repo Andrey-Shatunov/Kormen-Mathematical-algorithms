@@ -1,8 +1,7 @@
 function euclid(a, b) {
   
-  if(b == 0){
+  if(b == 0)
   	return [a, 1, 0];
-  }
   else{
   	var mass=euclid(b, a%b);
     var i = mass[2];
